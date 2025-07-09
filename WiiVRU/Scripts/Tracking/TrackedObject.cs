@@ -30,6 +30,7 @@ namespace WiiVRU.Tracking
                         
                         transform.Rotate (gyroDegree);
                     }
+                    break;
                 case trackedDevice.LeftHand:
                     handTrack(0);
                     break;
