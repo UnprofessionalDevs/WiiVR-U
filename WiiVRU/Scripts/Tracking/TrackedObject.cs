@@ -6,7 +6,7 @@ using UnityEngine.WiiU;
 
 namespace WiiVRU.Tracking
 {
-    public class TrackedObject : MonoBehavior
+    public class TrackedObject : MonoBehaviour
     {
         GamePad gamePad;
 
